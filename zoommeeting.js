@@ -1,4 +1,3 @@
-
 import axios from "axios";
 const clientId =  process.env.CLIENT_ID;
 const accountId = process.env.ACCOUNT_ID;
